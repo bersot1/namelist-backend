@@ -5321,11 +5321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain.Api\\nameInList_api.Domain.Api.csproj",
+      "projectUniqueName": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain.Api\\nameInList_api.Domain.Api.csproj",
       "projectName": "nameInList_api.Domain.Api",
-      "projectPath": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain.Api\\nameInList_api.Domain.Api.csproj",
+      "projectPath": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain.Api\\nameInList_api.Domain.Api.csproj",
       "packagesPath": "C:\\Users\\81011170\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain.Api\\obj\\",
+      "outputPath": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5344,11 +5344,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain.Infra\\nameInList_api.Domain.Infra.csproj": {
-              "projectPath": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain.Infra\\nameInList_api.Domain.Infra.csproj"
+            "C:\\Projetos\\namelist-backend\\nameInList_api.Domain.Infra\\nameInList_api.Domain.Infra.csproj": {
+              "projectPath": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain.Infra\\nameInList_api.Domain.Infra.csproj"
             },
-            "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\nameInList_api.Domain.csproj": {
-              "projectPath": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\nameInList_api.Domain.csproj"
+            "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\nameInList_api.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\nameInList_api.Domain.csproj"
             }
           }
         }

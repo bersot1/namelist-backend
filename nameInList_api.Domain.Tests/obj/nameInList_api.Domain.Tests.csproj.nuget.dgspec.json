@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain.Tests\\nameInList_api.Domain.Tests.csproj": {}
+    "C:\\Projetos\\namelist-backend\\nameInList_api.Domain.Tests\\nameInList_api.Domain.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain.Tests\\nameInList_api.Domain.Tests.csproj": {
+    "C:\\Projetos\\namelist-backend\\nameInList_api.Domain.Tests\\nameInList_api.Domain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain.Tests\\nameInList_api.Domain.Tests.csproj",
+        "projectUniqueName": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain.Tests\\nameInList_api.Domain.Tests.csproj",
         "projectName": "nameInList_api.Domain.Tests",
-        "projectPath": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain.Tests\\nameInList_api.Domain.Tests.csproj",
+        "projectPath": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain.Tests\\nameInList_api.Domain.Tests.csproj",
         "packagesPath": "C:\\Users\\81011170\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain.Tests\\obj\\",
+        "outputPath": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\nameInList_api.Domain.csproj": {
-                "projectPath": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\nameInList_api.Domain.csproj"
+              "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\nameInList_api.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\nameInList_api.Domain.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\nameInList_api.Domain.csproj": {
+    "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\nameInList_api.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\nameInList_api.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\nameInList_api.Domain.csproj",
         "projectName": "nameInList_api.Domain",
-        "projectPath": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\nameInList_api.Domain.csproj",
+        "projectPath": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\nameInList_api.Domain.csproj",
         "packagesPath": "C:\\Users\\81011170\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

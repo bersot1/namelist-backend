@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\nameInList_api.Domain.csproj": {}
+    "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\nameInList_api.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\nameInList_api.Domain.csproj": {
+    "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\nameInList_api.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\nameInList_api.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\nameInList_api.Domain.csproj",
         "projectName": "nameInList_api.Domain",
-        "projectPath": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\nameInList_api.Domain.csproj",
+        "projectPath": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\nameInList_api.Domain.csproj",
         "packagesPath": "C:\\Users\\81011170\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\TESTE\\nameInLista-newApi\\nameInList_api.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\namelist-backend\\nameInList_api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

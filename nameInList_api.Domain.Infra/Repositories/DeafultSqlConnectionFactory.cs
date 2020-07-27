@@ -10,7 +10,7 @@ namespace nameInList_api.Domain.Infra.Repositories
     {
         public IDbConnection connection()
         {
-            return new SqlConnection("Server=nameinlist.database.windows.net;Database=namelistdb;User Id=namelistuser;Password=LBM2409qwer97*/;");
+            return new SqlConnection("Server=123;Database=123;User Id=123;Password=123;");
         }
     }
 }
