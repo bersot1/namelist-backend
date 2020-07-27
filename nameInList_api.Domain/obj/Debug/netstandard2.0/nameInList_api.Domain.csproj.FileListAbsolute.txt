@@ -1,0 +1,16 @@
+C:\Users\81011170\Desktop\template-backend-aspnet-ddd-master\template-backend-aspnet-ddd-master\nameInList_api\nameInList_api.Domain\bin\Debug\netstandard2.0\nameInList_api.Domain.deps.json
+C:\Users\81011170\Desktop\template-backend-aspnet-ddd-master\template-backend-aspnet-ddd-master\nameInList_api\nameInList_api.Domain\bin\Debug\netstandard2.0\nameInList_api.Domain.dll
+C:\Users\81011170\Desktop\template-backend-aspnet-ddd-master\template-backend-aspnet-ddd-master\nameInList_api\nameInList_api.Domain\bin\Debug\netstandard2.0\nameInList_api.Domain.pdb
+C:\Users\81011170\Desktop\template-backend-aspnet-ddd-master\template-backend-aspnet-ddd-master\nameInList_api\nameInList_api.Domain\obj\Debug\netstandard2.0\nameInList_api.Domain.csprojAssemblyReference.cache
+C:\Users\81011170\Desktop\template-backend-aspnet-ddd-master\template-backend-aspnet-ddd-master\nameInList_api\nameInList_api.Domain\obj\Debug\netstandard2.0\nameInList_api.Domain.AssemblyInfoInputs.cache
+C:\Users\81011170\Desktop\template-backend-aspnet-ddd-master\template-backend-aspnet-ddd-master\nameInList_api\nameInList_api.Domain\obj\Debug\netstandard2.0\nameInList_api.Domain.AssemblyInfo.cs
+C:\Users\81011170\Desktop\template-backend-aspnet-ddd-master\template-backend-aspnet-ddd-master\nameInList_api\nameInList_api.Domain\obj\Debug\netstandard2.0\nameInList_api.Domain.dll
+C:\Users\81011170\Desktop\template-backend-aspnet-ddd-master\template-backend-aspnet-ddd-master\nameInList_api\nameInList_api.Domain\obj\Debug\netstandard2.0\nameInList_api.Domain.pdb
+C:\Projetos\TESTE\nameInLista-newApi\nameInList_api.Domain\bin\Debug\netstandard2.0\nameInList_api.Domain.deps.json
+C:\Projetos\TESTE\nameInLista-newApi\nameInList_api.Domain\bin\Debug\netstandard2.0\nameInList_api.Domain.dll
+C:\Projetos\TESTE\nameInLista-newApi\nameInList_api.Domain\bin\Debug\netstandard2.0\nameInList_api.Domain.pdb
+C:\Projetos\TESTE\nameInLista-newApi\nameInList_api.Domain\obj\Debug\netstandard2.0\nameInList_api.Domain.csprojAssemblyReference.cache
+C:\Projetos\TESTE\nameInLista-newApi\nameInList_api.Domain\obj\Debug\netstandard2.0\nameInList_api.Domain.AssemblyInfoInputs.cache
+C:\Projetos\TESTE\nameInLista-newApi\nameInList_api.Domain\obj\Debug\netstandard2.0\nameInList_api.Domain.AssemblyInfo.cs
+C:\Projetos\TESTE\nameInLista-newApi\nameInList_api.Domain\obj\Debug\netstandard2.0\nameInList_api.Domain.dll
+C:\Projetos\TESTE\nameInLista-newApi\nameInList_api.Domain\obj\Debug\netstandard2.0\nameInList_api.Domain.pdb

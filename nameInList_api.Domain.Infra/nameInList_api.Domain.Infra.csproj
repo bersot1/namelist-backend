@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200709200307_fxTable.cs" />
+    <Compile Remove="Migrations\20200709200307_fxTable.Designer.cs" />
+    <Compile Remove="Migrations\20200709210001_fixRelational.cs" />
+    <Compile Remove="Migrations\20200709210001_fixRelational.Designer.cs" />
+    <Compile Remove="Migrations\20200709211527_fixRelational.cs" />
+    <Compile Remove="Migrations\20200709211527_fixRelational.Designer.cs" />
+    <Compile Remove="Migrations\20200709212325_remove criatorid.cs" />
+    <Compile Remove="Migrations\20200709212325_remove criatorid.Designer.cs" />
+    <Compile Remove="Migrations\20200709220705_add criatorId.cs" />
+    <Compile Remove="Migrations\20200709220705_add criatorId.Designer.cs" />
+    <Compile Remove="Migrations\20200709221722_fix relatioal user-lia.cs" />
+    <Compile Remove="Migrations\20200709221722_fix relatioal user-lia.Designer.cs" />
+    <Compile Remove="Migrations\20200709222143_fix.cs" />
+    <Compile Remove="Migrations\20200709222143_fix.Designer.cs" />
+    <Compile Remove="Migrations\20200709222340_initial.cs" />
+    <Compile Remove="Migrations\20200709222340_initial.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\nameInList_api.Domain\nameInList_api.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.35" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
